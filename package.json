@@ -1,6 +1,6 @@
 {
-  "name": "@alilc/lowcode-engine-ext",
-  "version": "1.0.6-beta.8",
+  "name": "@dslc/lowcode-engine-ext",
+  "version": "1.0.6",
   "description": "",
   "files": [
     "dist",
@@ -71,6 +71,5 @@
     "registry": "https://registry.npmjs.org/"
   },
   "license": "MIT",
-  "homepage": "https://unpkg.com/@alilc/lowcode-engine-ext@1.0.6-beta.7/build/index.html",
-  "repository": "git@github.com:alibaba/lowcode-engine-ext.git"
+  "homepage": "https://unpkg.com/@dslc/lowcode-engine-ext@1.0.5/build/index.html"
 }
