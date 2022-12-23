@@ -21,7 +21,8 @@
     "stylelint": "stylelint \"**/*.{css,scss,less}\"",
     "lint": "npm run eslint && npm run stylelint",
     "f2elint-scan": "f2elint scan -q",
-    "f2elint-fix": "f2elint fix"
+    "f2elint-fix": "f2elint fix",
+    "syncOss": "node ./scripts/sync-oss.js"
   },
   "keywords": [
     "ice",
